@@ -2,13 +2,24 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
+CornerStore/[Ll]ibrary/
+CornerStore/[Tt]emp/
+CornerStore/[Oo]bj/
+CornerStore/[Bb]uild/
+CornerStore/[Bb]uilds/
+CornerStore/[Ll]ogs/
+CornerStore/[Mm]emoryCaptures/
+CornerStore/[Aa]ssets/[Gg]ame
+CornerStore/[Uu]serSettings/
+
+# Project version
+CornerStore/ProjectSettings/ProjectVersion.txt
+
+CornerStore/[Bb]uild/
+CornerStore/[Bb]uilds/
 /[Bb]uild/
 /[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+*.blend1
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -21,6 +32,8 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+.vsconfig*
 
 # Gradle cache directory
 .gradle/
@@ -32,7 +45,6 @@ ExportedObj/
 *.unityproj
 *.sln
 *.suo
-*.tmp
 *.user
 *.userprefs
 *.pidb
@@ -58,3 +70,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# FMOD
+FMOD/.cache
+FMOD/.unsaved
+FMOD/.user
+fmod.log
+fmod_editor.log
+FMODStudioCache.asset
+
+#Always changing files
+*GameInfo.json
+# Referencer asset file
+*References.asset*
