@@ -13,11 +13,11 @@ GameObject:
   - component: {fileID: 7057420951484834733}
   - component: {fileID: 2030844857806274073}
   m_Layer: 0
-  m_Name: Counter (18)
+  m_Name: MediumRight (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &2454976094471887850
 Transform:
@@ -109,11 +109,11 @@ GameObject:
   - component: {fileID: 7767945018207140181}
   - component: {fileID: 4125975583368151942}
   m_Layer: 0
-  m_Name: Counter (19)
+  m_Name: MediumLeft (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &1322619812840855766
 Transform:
@@ -205,11 +205,11 @@ GameObject:
   - component: {fileID: 5723968527795420850}
   - component: {fileID: 1508783398797949188}
   m_Layer: 0
-  m_Name: Counter (15)
+  m_Name: MediumShelf (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &6832489447895525774
 Transform:
@@ -223,7 +223,7 @@ Transform:
   m_LocalScale: {x: 1.0051708, y: 0.25, z: 4.3289294}
   m_Children: []
   m_Father: {fileID: 8417293687051127472}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -10.626}
 --- !u!33 &2234610169535325674
 MeshFilter:
@@ -298,7 +298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8417293687051127472}
   m_Layer: 0
-  m_Name: CounterShort 1
+  m_Name: CounterMedium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -315,12 +315,12 @@ Transform:
   m_LocalPosition: {x: 3.03, y: 1, z: 1.72}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 2801975420515930990}
-  - {fileID: 19744977052805283}
-  - {fileID: 8575058139477931172}
+  - {fileID: 2570664213646609623}
   - {fileID: 3981869005997271040}
   - {fileID: 6832489447895525774}
-  - {fileID: 2570664213646609623}
+  - {fileID: 8575058139477931172}
+  - {fileID: 2801975420515930990}
+  - {fileID: 19744977052805283}
   - {fileID: 8674508658130938142}
   - {fileID: 2454976094471887850}
   - {fileID: 1322619812840855766}
@@ -341,11 +341,11 @@ GameObject:
   - component: {fileID: 8210649953259572630}
   - component: {fileID: 2076657801513940915}
   m_Layer: 0
-  m_Name: Counter (11)
+  m_Name: MediumBackboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &2801975420515930990
 Transform:
@@ -359,7 +359,7 @@ Transform:
   m_LocalScale: {x: 1, y: 3.5, z: 4.298419}
   m_Children: []
   m_Father: {fileID: 8417293687051127472}
-  m_RootOrder: 0
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1125491046541961289
 MeshFilter:
@@ -437,11 +437,11 @@ GameObject:
   - component: {fileID: 6312919128167167288}
   - component: {fileID: 7687328129323581957}
   m_Layer: 0
-  m_Name: Counter (13)
+  m_Name: MediumShelf (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &8575058139477931172
 Transform:
@@ -455,7 +455,7 @@ Transform:
   m_LocalScale: {x: 1.2340195, y: 0.25, z: 4.3259287}
   m_Children: []
   m_Father: {fileID: 8417293687051127472}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -10.626}
 --- !u!33 &3433994403099628459
 MeshFilter:
@@ -533,11 +533,11 @@ GameObject:
   - component: {fileID: 9150504521924376701}
   - component: {fileID: 8584327925123326057}
   m_Layer: 0
-  m_Name: Counter (20)
+  m_Name: MediumLeft (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &9094099414435484683
 Transform:
@@ -629,11 +629,11 @@ GameObject:
   - component: {fileID: 3922413908946310602}
   - component: {fileID: 666233951703255546}
   m_Layer: 0
-  m_Name: Counter (14)
+  m_Name: MediumShelf (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &3981869005997271040
 Transform:
@@ -647,7 +647,7 @@ Transform:
   m_LocalScale: {x: 0.7695211, y: 0.25, z: 4.33544}
   m_Children: []
   m_Father: {fileID: 8417293687051127472}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -10.626}
 --- !u!33 &2288071057762373601
 MeshFilter:
@@ -725,11 +725,11 @@ GameObject:
   - component: {fileID: 3567985700049726464}
   - component: {fileID: 278564949212936621}
   m_Layer: 0
-  m_Name: Counter (16)
+  m_Name: MediumShelf (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &2570664213646609623
 Transform:
@@ -743,7 +743,7 @@ Transform:
   m_LocalScale: {x: 1.5, y: 0.25, z: 4.3108845}
   m_Children: []
   m_Father: {fileID: 8417293687051127472}
-  m_RootOrder: 5
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1184881554494507849
 MeshFilter:
@@ -821,11 +821,11 @@ GameObject:
   - component: {fileID: 7202204041838863703}
   - component: {fileID: 8421443754946275693}
   m_Layer: 0
-  m_Name: Counter (17)
+  m_Name: MediumRight (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &8674508658130938142
 Transform:
@@ -917,11 +917,11 @@ GameObject:
   - component: {fileID: 698422655808126165}
   - component: {fileID: 1734228048523681758}
   m_Layer: 0
-  m_Name: Counter (12)
+  m_Name: MediumBottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!4 &19744977052805283
 Transform:
@@ -935,7 +935,7 @@ Transform:
   m_LocalScale: {x: 1.1453, y: 0.5, z: 4.3259287}
   m_Children: []
   m_Father: {fileID: 8417293687051127472}
-  m_RootOrder: 1
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8116562289796140887
 MeshFilter:
